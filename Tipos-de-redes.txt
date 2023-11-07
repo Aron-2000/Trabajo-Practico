@@ -1,0 +1,4 @@
+Red LAN: es la red local entre dispositivos de un mismo hogar
+Red WLAN: es una red local pero interconectada por cables 
+Red MAN: es una red de mayor alcance como de una ciudad 
+red WAN: es una red intercontinental que conecta ordenadores de diferentes puntos geograficos
